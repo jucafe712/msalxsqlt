@@ -1,0 +1,23 @@
+
+		MotoStockApp
+	 Tel.: +573025321019, Bogota - 111821
+===============================================
+Nombre Cliente: Federich 
+Tel.:Niszche
+Factura No.3194631		\Date: 03052024
+===============================================
+Nombre Repuesto			QTY	Price
+===============================================
+        
+neumatico 275-300x18 blacktTyre			1	$10000.0
+more ktm duke 200 barras 2022 frontales			1	$1000000.0
+suzuki gn125H 2012			1	$500000.0
+yuasa akt 125nkd bateria seca			1	$100000.0
+Estator baja pulsar 180			1	$160000.0
+===============================================
+Total Factura				$.1770000.0
+Descuento				$88500.0
+Pago Neto				$1681500.0
+===============================================
+
+        

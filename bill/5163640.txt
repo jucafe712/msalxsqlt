@@ -1,0 +1,22 @@
+
+		MotoStockApp
+	 Tel.: +573025321019, Bogota - 111821
+===============================================
+Nombre Cliente: Maria Huertas
+Tel.:+57123456
+Factura No.5163640		\Date: 05052024
+===============================================
+Nombre Repuesto			QTY	Price
+===============================================
+        
+biela honda xr500			1	$100000.0
+Kit arrastre honda cbf 125			1	$100000.0
+neumatico 275-300x18 blacktTyre			1	$10000.0
+neumatico 275-300x17 maxride			1	$10000.0
+===============================================
+Total Factura				$.220000.0
+Descuento				$11000.0
+Pago Neto				$209000.0
+===============================================
+
+        

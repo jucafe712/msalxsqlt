@@ -1,0 +1,24 @@
+
+		MotoStockApp
+	 Tel.: +573025321019, Bogota - 111821
+===============================================
+Nombre Cliente: Amparo Perez
+Tel.:+57123456
+Factura No.5185649		\Date: 05052024
+===============================================
+Nombre Repuesto			QTY	Price
+===============================================
+        
+bujia nkg suzuki gn125h			5	$125000.0
+biela honda xr500			1	$100000.0
+Kit arrastre honda cbf 125			5	$500000.0
+neumatico 275-300x18 blacktTyre			20	$200000.0
+neumatico 275-300x17 maxride			10	$100000.0
+bateria yuasa akt 125nkd bateria seca			1	$100000.0
+===============================================
+Total Factura				$.1125000.0
+Descuento				$56250.0
+Pago Neto				$1068750.0
+===============================================
+
+        

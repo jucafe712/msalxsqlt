@@ -1,0 +1,24 @@
+
+		MotoStockApp
+	 Tel.: +573025321019, Bogota - 111821
+===============================================
+Nombre Cliente: Celia Gomez
+Tel.:+57123456
+Factura No.6054643		\Date: 06052024
+===============================================
+Nombre Repuesto			QTY	Price
+===============================================
+        
+bujia nkg suzuki gn125h			1	$25000.0
+biela honda xr500			1	$100000.0
+Kit arrastre honda cbf 125			1	$100000.0
+neumatico 275-300x17 maxride			10	$100000.0
+neumatico 275-300x18 blacktTyre			15	$150000.0
+llanta akita 275-300x17 TT			4	$600000.0
+===============================================
+Total Factura				$.1075000.0
+Descuento				$53750.0
+Pago Neto				$1021250.0
+===============================================
+
+        

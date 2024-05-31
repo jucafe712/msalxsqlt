@@ -1,0 +1,22 @@
+
+		MotoStockApp
+	 Tel.: +573025321019, Bogota - 111821
+===============================================
+Nombre Cliente: Monica Tellez
+Tel.:+47159753852
+Factura No.21184150		\Precio: 21052024
+===============================================
+Nombre Repuesto			UNDs	Precio
+===============================================
+        
+camara 410*17 centauro			1	$12000.0
+bujia nkg suzuki gn125h			1	$25000.0
+biela honda xr500			1	$100000.0
+Kit arrastre honda cbf 125			1	$100000.0
+===============================================
+Total Factura				$237000.0
+Descuento				$11850.0
+Pago Neto				$225150.0
+===============================================
+
+        

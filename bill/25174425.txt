@@ -1,0 +1,21 @@
+
+		MotoStockApp
+	 Tel.: +573025321019, Bogota - 111821
+===============================================
+Nombre Cliente: Lenor Gonazales
+Tel.:+57313895623
+Factura No.25174425		\Precio: 25052024
+===============================================
+Nombre Repuesto			UNDs	Precio
+===============================================
+        
+bujia nkg suzuki gn125h			1	$25000.0
+Kit arrastre honda cbf 125			1	$100000.0
+neumatico 275-300x18 blacktTyre			10	$100000.0
+===============================================
+Total Factura				$225000.0
+Descuento 5%:				$11250.0
+Pago Neto				$213750.0
+===============================================
+
+        

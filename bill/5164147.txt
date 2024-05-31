@@ -1,0 +1,24 @@
+
+		MotoStockApp
+	 Tel.: +573025321019, Bogota - 111821
+===============================================
+Nombre Cliente: Freddy Mercury
+Tel.:+27159753456
+Factura No.5164147		\Date: 05052024
+===============================================
+Nombre Repuesto			QTY	Price
+===============================================
+        
+mikuni			1	$200000.0
+bateria yuasa akt 125nkd bateria seca			1	$100000.0
+biela honda xr500			1	$100000.0
+Kit arrastre honda cbf 125			1	$100000.0
+neumatico 275-300x17 maxride			1	$10000.0
+neumatico 275-300x18 blacktTyre			1	$10000.0
+===============================================
+Total Factura				$.520000.0
+Descuento				$26000.0
+Pago Neto				$494000.0
+===============================================
+
+        
